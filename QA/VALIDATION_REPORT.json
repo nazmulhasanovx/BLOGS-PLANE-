@@ -1,0 +1,26 @@
+{
+  "reviewed_date": "2026-11-19",
+  "topic_count": 600,
+  "distinct_ids": 600,
+  "distinct_titles": 600,
+  "distinct_suggested_urls": 600,
+  "category_count": 20,
+  "topics_per_cluster": 30,
+  "priority_counts": {
+    "P0": 120,
+    "P1": 240,
+    "P2": 240
+  },
+  "languages": {
+    "en": 594,
+    "bn": 6
+  },
+  "branded_topics_requires_feature_verification": 30,
+  "calendar_months": 24,
+  "candidate_posts_per_month": 25,
+  "calendar_first_month": "2026-12",
+  "calendar_last_month": "2028-11",
+  "editorial_ready": 0,
+  "actual_published": 0,
+  "note": "This is plan-integrity QA, NOT search volume validation, competitor ranking audit or a measured SEO score."
+}
